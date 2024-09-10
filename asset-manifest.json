@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/thchann/static/css/main.e54a3e45.css",
+    "main.js": "/thchann/static/js/main.2302d492.js",
+    "static/js/453.b3faef14.chunk.js": "/thchann/static/js/453.b3faef14.chunk.js",
+    "static/media/helvetica-neu.ttf": "/thchann/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/logo_sub.png": "/thchann/static/media/logo_sub.19f3ab25ab15fd848b30.png",
+    "static/media/LaBelleAurore.woff2": "/thchann/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/logo-s.png": "/thchann/static/media/logo-s.bfc9f81846bda5218dab.png",
+    "static/media/CoolveticaRg-Regular.woff2": "/thchann/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/thchann/index.html",
+    "main.e54a3e45.css.map": "/thchann/static/css/main.e54a3e45.css.map",
+    "main.2302d492.js.map": "/thchann/static/js/main.2302d492.js.map",
+    "453.b3faef14.chunk.js.map": "/thchann/static/js/453.b3faef14.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e54a3e45.css",
+    "static/js/main.2302d492.js"
+  ]
+}
