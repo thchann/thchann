@@ -22,17 +22,12 @@ const Contact = () => {
                     I am particularly interested in internship opportunities
                     that involve large-scale projects, as these projects provide
                     invaluable hands-on experience which boosts my capability as
-                    a full stack developer. Feel free to reach out using the form 
-                    below!
+                    a full stack developer. Feel free to reach out to me using the
+                    email address below:
+
+                    tchan@trinity.edu
                 </p>
             </div>
-            <nav>
-                <a 
-                    href="https://gmail.com"
-                >
-                    <FontAwesomeIcon icon={faEnvelope} color="#4d4d4e" />
-                </a>
-            </nav>
         </div>
         <Loader type='pacman' />
     </>)
